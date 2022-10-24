@@ -1,4 +1,4 @@
-## Hi there, we are the HLABZ ⚡
+## Hi there, we are HLABZ ⚡
 
 ***HLABZ*** manages different automatic websites: ***Blog, Ecom, SAAS***,... 
 By doing our work, we have developed a real expertise in the fields of ***Dev, SEO, Advertising & much more***.
